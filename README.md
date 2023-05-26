@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tedy Hidayat
+- 👋 Hi, I’m Tedy Hidayat (Mr.Tedd)
 - 👀 I’m interested in web programming
 - 💞️ I’m looking to collaborate on https://www.linkedin.com/in/tedy-hidayat/
 
