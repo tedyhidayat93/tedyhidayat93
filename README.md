@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tedy Hidayat (Mr.Tedd)
+- 👋 Hi, I’m Tedy Hidayat (Tedy)
 - 👀 I’m interested in web programming
-- 💞️ I’m looking to collaborate on https://www.linkedin.com/in/tedy-hidayat or https://thdevstudio.com?hit=contact
-- 📖 Visit my website at https://thdevstudio.com
+- 💞️ I’m looking to collaborate on https://www.linkedin.com/in/tedy-hidayat or https://tedydev.my.id?hit=contact
+- 📖 Visit my website at https://tedydev.my.id
 
 <!---
 tedyhidayat93/tedyhidayat93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
